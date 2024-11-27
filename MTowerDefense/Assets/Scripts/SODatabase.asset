@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf84800439160974cb0f47a26c20efa8, type: 3}
+  m_Name: SODatabase
+  m_EditorClassIdentifier: 
+  towerObject:
+  - <ID>k__BackingField: 0
+    <Name>k__BackingField: Basic Tower
+    <Prefab>k__BackingField: {fileID: 7529564846343015720, guid: eccd4f46ccd05c140a397143e9c03211, type: 3}
+    <Cost>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+  ringObject:
+  - <ID>k__BackingField: 0
+    <Name>k__BackingField: Basic Ring
+    <Prefab>k__BackingField: {fileID: 2697960861998928896, guid: 13f5cbc573bb02b4caf627235677736c, type: 3}
+    <Cost>k__BackingField: 0
+  - <ID>k__BackingField: 1
+    <Name>k__BackingField: Damage  Ring
+    <Prefab>k__BackingField: {fileID: 8419873565986620196, guid: 748124d9db79e0747942e6edca70849c, type: 3}
+    <Cost>k__BackingField: 0
